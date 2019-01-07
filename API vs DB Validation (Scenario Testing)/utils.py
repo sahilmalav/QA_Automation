@@ -5,7 +5,7 @@ root_path = '/home/abzooba/PycharmProjects/CG_Phase_4_Automation/common_config.i
 
 #----------------------------------------------------------------------------------------------------#
 
-query_id = 58155
+query_id = 0
 request = {
     "query_type": "as",
     "session_id": "c494d392eb7cf63bd59e8bbe44fb8f80250c0dd7",
@@ -13,12 +13,12 @@ request = {
     "search_type": 1
 }
 is_nlp = "true"
-source = ["galileo", "edam"]
+source = []
 file_type = []
 offset = 1
 time_filter_value = 0
 sort_order = "relevance"
-apply_filter = "true"
+apply_filter = "false"
 publication_from_date = "2015-12-22"
 publication_to_date = "2018-12-20"
 

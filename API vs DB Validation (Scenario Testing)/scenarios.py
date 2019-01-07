@@ -80,8 +80,8 @@ def scenario_testing():
             print(result)
             check1 = (query_id == 0 and result[0] != 0) and (publication_to_date == str(result[17])) \
                      and (publication_from_date == str(result[16])) and \
-                     ((not source and not result[14]) or (str(source) == result[14])) and \
-                     ((not file_type and not result[15]) or (str(file_type) == result[15]))
+                     ((not source and not result[14]) or (source == result[14].split(','))) and \
+                     ((not file_type and not result[15]) or (file_type == result[15].split(',')))
             check2 = (query_id != 0 and result[0] != 0 and apply_filter) and (result[1] == query_id) and \
                      (query_id != result[0]) and (publication_to_date == str(result[17])) and \
                      (publication_from_date == str(result[16])) and \
