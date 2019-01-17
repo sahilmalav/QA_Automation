@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ccccd9d-be20-4c59-a34d-fa8d954e9a3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/API Response Validation (Basic Checks)/daa.py" beforeDir="false" afterPath="$PROJECT_DIR$/API Response Validation (Basic Checks)/daa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API Response Validation (Basic Checks)/nadia.py" beforeDir="false" afterPath="$PROJECT_DIR$/API Response Validation (Basic Checks)/nadia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API Response Validation (Basic Checks)/query_Nadia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/API Response Validation (Basic Checks)/query_Nadia.txt" afterDir="false" />
-    </list>
+    <list default="true" id="4ccccd9d-be20-4c59-a34d-fa8d954e9a3c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API Response Validation (Basic Checks)/daa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -26,10 +22,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/API Response Validation (Basic Checks)/nadia.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="150">
               <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -165,19 +161,19 @@
     <entry file="file://$PROJECT_DIR$/API Response Validation (Basic Checks)/Nadia_out.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/API Response Validation (Basic Checks)/nadia.py">
+    <entry file="file://$PROJECT_DIR$/API Response Validation (Basic Checks)/daa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API Response Validation (Basic Checks)/daa.py">
+    <entry file="file://$PROJECT_DIR$/API Response Validation (Basic Checks)/nadia.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="150">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
